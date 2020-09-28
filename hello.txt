@@ -1,2 +1,2 @@
-Ruby stuff
-New things
+name = ARGV.first || "World"
+puts "Hello, #{name}!"
