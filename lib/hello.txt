@@ -2,3 +2,5 @@
 # Author: Marcos Felipe (Marcos@somewhere.com)
 name = ARGV.first || "World"
 puts "Hello, #{name}!"
+
+nun
